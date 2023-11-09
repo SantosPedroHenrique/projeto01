@@ -2,8 +2,11 @@ body{
     background-color: rgb(48, 158, 248);
 }
 #imagem1 {
-    width: 350px;
+    width: 500px;
 }
 #rio { 
-    width: 350px;
+    width: 500px;
+}
+#canada { 
+    width: 250;
 }
