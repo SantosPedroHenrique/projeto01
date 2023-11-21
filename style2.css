@@ -1,3 +1,8 @@
-#paisagem {
-    width: 350px;
+.caixa{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    background-color: rgb(216, 62, 62);
+    
 }
