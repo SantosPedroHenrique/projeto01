@@ -1,8 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.pricipal{
+    text-align: center;
+    background-color: crimson;
+}
 .caixa{
     display: inline-block;
     text-align: center;
     width: 30%;
     vertical-align: top;
     background-color: rgb(216, 62, 62);
-    
+
 }
+#caixa-alberta{}
