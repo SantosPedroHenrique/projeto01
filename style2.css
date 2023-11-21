@@ -4,7 +4,7 @@
 }
 .principal{
     text-align: center;
-    background-color: crimson;
+    background-color: rgba(220, 20, 60, 0), 20, 60);
 }
 .caixa{
     display: inline-block;
@@ -17,5 +17,5 @@
 #caixa-alberta{
     width: 500px;
 
-    
+
 }
